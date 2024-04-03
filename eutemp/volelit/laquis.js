@@ -1,0 +1,1 @@
+const explorer = 'https://www.example.com
